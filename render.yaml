@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: pathfinder-frontend
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./frontend
